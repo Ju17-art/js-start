@@ -8,5 +8,6 @@
 ### 4. Задание 6.8.4 — Светофор [(Задача 3)](https://ju17-art.github.io/js-start/task3/index.html)
 ### 5. Задание 6.8.5 — Ввод текста [(Задача 4)](https://ju17-art.github.io/js-start/task4/index.html)
 ### 6. Задание 6.8.6 - Перехват формы [(Задача 5)](https://ju17-art.github.io/js-start/task5/index.html)
+### 7. Дополнительное задание [Модифицированный Светофор](https://ju17-art.github.io/js-start/task3-2/index.html)
 
 [Перейти на Стартовую страницу](https://ju17-art.github.io/js-start/)
